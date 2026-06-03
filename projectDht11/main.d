@@ -27,6 +27,7 @@ projectdht11\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 projectdht11\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 projectdht11\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h
 projectdht11\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
 projectdht11\main.o: ../Core/Inc/FreeRTOSConfig.h
@@ -39,6 +40,7 @@ projectdht11\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
 projectdht11\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
 projectdht11\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
 projectdht11\main.o: ../Core/Inc/adc.h
+projectdht11\main.o: ../Core/Inc/usart.h
 projectdht11\main.o: ../Core/Inc/gpio.h
 projectdht11\main.o: ../DWT/dwt_delay.h
 projectdht11\main.o: ../APP/app_sensor.h

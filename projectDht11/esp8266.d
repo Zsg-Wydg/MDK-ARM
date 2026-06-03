@@ -27,3 +27,14 @@ projectdht11\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex
 projectdht11\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+projectdht11\esp8266.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+projectdht11\esp8266.o: ../Core/Inc/FreeRTOSConfig.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+projectdht11\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

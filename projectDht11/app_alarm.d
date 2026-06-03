@@ -36,6 +36,7 @@ projectdht11\app_alarm.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_
 projectdht11\app_alarm.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\app_alarm.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\app_alarm.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\app_alarm.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 projectdht11\app_alarm.o: ..\APP\app_data.h
 projectdht11\app_alarm.o: ..\APP\app_cfg.h
 projectdht11\app_alarm.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

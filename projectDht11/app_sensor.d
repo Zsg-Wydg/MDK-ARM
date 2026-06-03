@@ -38,6 +38,7 @@ projectdht11\app_sensor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc
 projectdht11\app_sensor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\app_sensor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\app_sensor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\app_sensor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 projectdht11\app_sensor.o: ../DEVICE/dht11.h
 projectdht11\app_sensor.o: ../DEVICE/BH1750.h
 projectdht11\app_sensor.o: ../Core/Inc/main.h
