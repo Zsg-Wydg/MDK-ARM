@@ -27,6 +27,8 @@ projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_
 projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 projectdht11\soil_moisture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 projectdht11\soil_moisture.o: ../Core/Inc/adc.h
 projectdht11\soil_moisture.o: ../Core/Inc/main.h

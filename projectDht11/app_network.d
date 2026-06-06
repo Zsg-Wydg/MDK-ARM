@@ -38,6 +38,8 @@ projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_ad
 projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 projectdht11\app_network.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 projectdht11\app_network.o: ../DEVICE/esp8266.h
 projectdht11\app_network.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
