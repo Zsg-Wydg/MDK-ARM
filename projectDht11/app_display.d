@@ -46,4 +46,5 @@ projectdht11\app_display.o: ../DEVICE/OLED.h
 projectdht11\app_display.o: ../DEVICE/OLED_Data.h
 projectdht11\app_display.o: ..\APP\app_data.h
 projectdht11\app_display.o: ../DEVICE/esp8266.h
+projectdht11\app_display.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 projectdht11\app_display.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
